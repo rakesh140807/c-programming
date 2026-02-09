@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1762933222 source:c:\users\lenovo\desktop\c prog\program to count the number of elements in an array\main.c
+	<stdio.h>
+	<stdlib.h>
+
