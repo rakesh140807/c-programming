@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1770702797 source:c:\users\lenovo\desktop\c prog\progarm to read charcters from a file using fgetc()\main.c
+	<stdio.h>
+	<stdlib.h>
+
